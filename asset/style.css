@@ -129,11 +129,11 @@
     position: relative;
     background-color: #f5deb3;
     display: inline-block;
-    width: 1910px;
+    width: 100vw;
 }
 
 .image-container img {
-    width: 1910px;
+    width: 100vw;
     height: 600px;
     display: block;
 }
@@ -208,11 +208,11 @@
     background-color: #f5deb3;
     display: inline-block;
     padding-bottom: 0px;
-    width: 1910px;
+    width: 100vw;
 }
 
 .image-container2 img {
-    width: 1910px;
+    width: 100vw;
     height: 600px;
     padding-bottom: 0px;
     display: block;
@@ -327,7 +327,7 @@
     margin: 0%;
     background-color: #341C02;
     height: 29em;
-    width: 1910px;
+    width: 100vw;
 }
 .fthover:hover{
     animation: pop-out 0.3s forwards;
